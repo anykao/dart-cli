@@ -1,4 +1,3 @@
 language: dart
 script:
-  - dart --version
   - pub run bin/main.dart
