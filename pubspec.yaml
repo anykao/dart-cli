@@ -2,3 +2,4 @@ name: mycli
 description: simple dart cli app.
 dependencies:
   http: any
+  oauth: any
